@@ -1,2 +1,0 @@
-I am file 10
-I was updated in commit 4.
