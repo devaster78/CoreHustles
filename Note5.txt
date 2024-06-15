@@ -2,4 +2,5 @@ I was updated in commit 3.
 I am file 5. I was updated in commit 6.
 I was updated in commit 4.
 I was updated in commit 2.
+I was updated in commit 7.
 I was updated in commit 5.
