@@ -1,2 +1,3 @@
+I was updated in commit 3.
 I am file 5.
 I was updated in commit 2.
